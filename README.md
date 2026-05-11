@@ -47,13 +47,7 @@ CurrencyExchangeFree is a modern Android currency converter app built with Kotli
 * Currency charts
 * Historical exchange rates
 * Offline caching
-* Dark mode enhancements
-* Favorites & recent conversions
 * Multi-language support
-
-## 📱 Screenshots
-
-(Add screenshots here)
 
 ## 🤝 Contributions
 
